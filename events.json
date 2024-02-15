@@ -1,0 +1,33 @@
+{
+    "events": [
+      {
+        "id":"1",
+        "eventName": "Hanuman Jayanti",
+        "date": "2024-03-26",
+        "description": "Participate in the celebrations of Hanuman Jayanti, commemorating the birth of Lord Hanuman.",
+        "location": "Shri Hanuman Garhi Mandir,Sai Nagar,Ayodhya,Uttar Pradesh-224123."
+      },
+      {
+        "id":"2",
+        "eventName": "Ram Navami Procession",
+        "date": "2024-04-02",
+        "description": "Join the grand procession to celebrate the birth of Lord Rama in Ayodhya.",
+        "location": "Shree Ram Janmbhoomi Mandir,Sai Nagar,Ayodhya,Uttar Pradesh-224123"
+      },
+      {
+        "id":"3",
+        "eventName": "Ayodhya Art and Culture Fair",
+        "date": "2024-07-20",
+        "description": "Experience the rich art and culture of Ayodhya through exhibitions, performances, and workshops.",
+        "location": "Ayodhya,Uttar Pradesh-224123"
+      },
+      {
+        "id":"4",
+        "eventName": "Diwali Festival",
+        "date": "2024-10-14",
+        "description": "Celebrate the festival of lights with joy and enthusiasm in Ayodhya.",
+        "location": "Ayodhya,Uttar Pradesh-224123"
+      }
+    ]
+  }
+  
